@@ -47,11 +47,11 @@
 	},
 	"sources": {
 		"contracts/HelloWeb3.sol": {
-			"keccak256": "0x82bcdba4666e5077de8d55e28632e78ee2e9e89cd6d340dc9f04d1d4057820a2",
+			"keccak256": "0xa421f791fc1c0a198f924043ec1d7162f7f2f49677f5362e55ab60b8a3a717ae",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ce6d7bd2368997e5f98de781449101f65baa6563d6f89188a9c8770c49e97ffb",
-				"dweb:/ipfs/QmSTGdWWybs2f6KebE7X1M1SG9i2vBmwgrZtCFxow6zkZa"
+				"bzz-raw://13bb6ecd4258a00ee55208c29a08b07047c7a2cc9d348f3433609290537081a9",
+				"dweb:/ipfs/QmRYrRs2Z85RTTaj3KhErzWoV33AXSVhtm1nXj7CFXKGi1"
 			]
 		}
 	},
