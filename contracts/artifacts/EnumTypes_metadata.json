@@ -7,30 +7,15 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "iniStudent2",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "iniStudent3",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "inistudent4",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "initStudent1",
-				"outputs": [],
-				"stateMutability": "nonpayable",
+				"name": "enumToUint",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
 				"type": "function"
 			}
 		],
@@ -47,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ArrayAndStruct.sol": "StructTypes"
+			"contracts/ArrayAndStruct.sol": "EnumTypes"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},

@@ -7,30 +7,28 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "iniStudent2",
-				"outputs": [],
+				"name": "arrayPush",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
 				"stateMutability": "nonpayable",
 				"type": "function"
 			},
 			{
 				"inputs": [],
-				"name": "iniStudent3",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "inistudent4",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "initStudent1",
-				"outputs": [],
-				"stateMutability": "nonpayable",
+				"name": "iniArray",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "pure",
 				"type": "function"
 			}
 		],
@@ -47,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ArrayAndStruct.sol": "StructTypes"
+			"contracts/ArrayAndStruct.sol": "ArrayTypes"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
